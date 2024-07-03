@@ -5,9 +5,9 @@ This project demonstrates data hiding techniques using steganography in images, 
 This Program uses LSB (Least Significant Bit) Algorithm to achieve the data hiding. LSB works by replacing the least significant bit of pixel values (typically in image or audio files) with hidden data. This alteration is often imperceptible to human senses but can carry additional information within the file.
 
 ## Features 
-* **Image Steganography:** Embed and extract hidden messages within PNG images using the Least Significant Bit (LSB) method.
+* **Image Steganography:** Embed and extract hidden messages within PNG images.
 * **Audio Steganography:** Embed and extract hidden messages within WAV audio files.
-* **Video Steganography:** Embed and extract hidden messages within MP4 video files using FFmpeg for processing.
+* **Video Steganography:** Embed and extract hidden messages within MP4 video files using FFMPEG for processing.
 
 ## Installation
 
@@ -25,7 +25,7 @@ Last Run on these versions
 * Open the terminal and copy the following commands one after the other.
 
   ```bash
-  cd DirectoryPath_of_Steganography
+  cd DirectoryPath_of_SteganographyFolder
   ```
 
   ```bash
@@ -39,3 +39,10 @@ Last Run on these versions
   ```bash
   java Main.java
   ```
+
+  ![alt text](![image](https://github.com/aashishkoundinya/Data-Hiding-Using-Steganography/assets/85052821/9375f7bf-b603-432f-a2d8-17fe368e0c28))
+
+  * Choose the type of file you want to encode your data.
+  * Copy and paste the path of the original image in which the data must be encoded.
+  * Enter an output file name `audio_output.wav` `image_output.png` `video_output.mp4` based on the type of encoding performed.
+  * The encoded file can we decoded using the same program
