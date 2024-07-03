@@ -39,9 +39,9 @@ Last Run on these versions
   ```bash
   java Main.java
   ```
-
-  ![alt text]((https://github.com/aashishkoundinya/Data-Hiding-Using-Steganography/assets/85052821/9375f7bf-b603-432f-a2d8-17fe368e0c28))
-
+  
+  ![Menu Image Here](![image](https://github.com/aashishkoundinya/Data-Hiding-Using-Steganography/assets/85052821/14ef7303-91cd-48e7-bc39-87234224201d))
+  
   * Choose the type of file you want to encode your data.
   * Copy and paste the path of the original image in which the data must be encoded.
   * Enter an output file name `audio_output.wav` `image_output.png` `video_output.mp4` based on the type of encoding performed.
