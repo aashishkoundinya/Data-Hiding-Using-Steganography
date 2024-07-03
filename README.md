@@ -40,7 +40,7 @@ Last Run on these versions
   java Main.java
   ```
 
-  ![alt text](![image](https://github.com/aashishkoundinya/Data-Hiding-Using-Steganography/assets/85052821/9375f7bf-b603-432f-a2d8-17fe368e0c28))
+  ![alt text]((https://github.com/aashishkoundinya/Data-Hiding-Using-Steganography/assets/85052821/9375f7bf-b603-432f-a2d8-17fe368e0c28))
 
   * Choose the type of file you want to encode your data.
   * Copy and paste the path of the original image in which the data must be encoded.
