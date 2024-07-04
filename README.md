@@ -44,3 +44,9 @@ Last Run on these versions
   * Copy and paste the path of the original image in which the data must be encoded.
   * Enter an output file name `audio_output.wav` `image_output.png` `video_output.mp4` based on the type of encoding performed.
   * The encoded file can we decoded using the same program
+
+**Clone the repository**
+```bash
+git clone https://github.com/yourusername/Data-Hiding-Using-Steganography.git
+```
+
