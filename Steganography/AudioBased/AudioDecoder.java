@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class AudioDecoder {
 
     public static String decode(Scanner scanner) {
-        System.out.print("Enter the WAV file name you want to decode, with extension: ");
+        System.out.print("Enter the .WAV file name you want to decode: ");
         String audioFileName = scanner.nextLine();
         File audioFile = new File(audioFileName);
 

@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class ImageEncoder {
 
     public static void encode(Scanner scanner) {
-        System.out.print("Enter image name with extension format: ");
+        System.out.print("Enter .PNG image path to encode: ");
         String imgName = scanner.nextLine();
         File imgFile = new File(imgName);
 

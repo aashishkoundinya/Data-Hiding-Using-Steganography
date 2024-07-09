@@ -71,7 +71,7 @@ public class Main {
                     System.out.println("Invalid choice. Please try again.");
             }
         }
-
+        System.out.println("End Of Program");
         scanner.close();
     }
 }
